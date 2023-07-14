@@ -4,9 +4,9 @@
 Soy estudiante de Economía de octavo ciclo en la Pontificia Universidad Católica del Perú con especial interés en el área de finanzas y en la ciencia actuarial.
 
 # Programación
-R - básico
-Python - básico
-Stata - intermedio
+1) R - básico
+2) Python - básico
+3) Stata - intermedio
 Mi experiencia en programación es mediante cursos universitarios
 
 # Idiomas
