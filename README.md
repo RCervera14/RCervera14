@@ -7,6 +7,7 @@ Soy estudiante de Economía de octavo ciclo en la Pontificia Universidad Católi
 1) R - básico
 2) Python - básico
 3) Stata - intermedio
+
 Mi experiencia en programación es mediante cursos universitarios
 
 # Idiomas
