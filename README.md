@@ -1,16 +1,13 @@
-### Hi there 👋
+### Rodrigo Cervera
 
-<!--
-**RCervera14/RCervera14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Perfil Profesional
+Soy estudiante de Economía de octavo ciclo en la Pontificia Universidad Católica del Perú con especial interés en el área de finanzas y en la ciencia actuarial.
 
-Here are some ideas to get you started:
+# Programación
+R - básico
+Python - básico
+Stata - intermedio
+Mi experiencia en programación es mediante cursos universitarios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Idiomas
+Inglés - intermedio
